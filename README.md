@@ -1,4 +1,4 @@
-# Toxic Comment Classification - Multi Label - NLP
+# Bad Comments Classification using Logistic Regression
 
 
 # Dataset Information
